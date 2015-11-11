@@ -1,0 +1,23 @@
+cls
+clear
+a <- c(1,2,3,4)
+a
+getwd()
+a <- available.packages()
+head(rownames(a),3)
+install.packages("slidify")
+yes
+getwd()
+read.csv("mydata.csv")
+dir
+dir()
+read.csv("sample.csv")
+getwd()
+dir()
+source("code1.R")
+ls()
+source("code1.R")
+ls
+ls()
+second(4)
+second(4:10)
